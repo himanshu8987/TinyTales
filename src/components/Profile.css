@@ -125,7 +125,7 @@
 }
 
 
-@media (width > 430px) {
+@media only screen and (max-width: 768px) {
   .profile__details {
     grid-template-columns: 200px auto;
   }

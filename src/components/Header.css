@@ -40,7 +40,7 @@ header {
 }
 
 
-@media (width > 430px) {
+@media only screen and (max-width: 768px) {
   .stories__text {
     font-size: 1.2rem;
   }
