@@ -1,5 +1,4 @@
 import React from "react";
-// importing images and icons from assets folder
 import ProfilePicture from "../assets/profile-picture.jpg";
 import Heart from "../assets/heart-icon.png";
 import EyeIcon from "../assets/eye.png";
@@ -8,7 +7,7 @@ import LikeIcon from "../assets/like.png";
 import Diamond from "../assets/diamond.png";
 import VerifiedIcon from "../assets/verified.png";
 
-// importing css
+
 import "./Profile.css";
 
 function Profile({ data }) {

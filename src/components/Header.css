@@ -39,7 +39,7 @@ header {
   border-radius: 5px;
 }
 
-/* iPhone 12/13 pro max size is taken as reference */
+
 @media (width > 430px) {
   .stories__text {
     font-size: 1.2rem;

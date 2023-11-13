@@ -25,3 +25,25 @@
   color: rgb(34, 167, 219);
   font-weight: 500;
 }
+
+@media only screen and (max-width: 412px) {
+  .posts {
+    margin-top: 1rem;
+    /* Adjust margin for smaller screens */
+  }
+
+  .divider {
+    width: 60px;
+    /* Adjust divider width for smaller screens */
+  }
+
+  .divider::after {
+    width: 60rem;
+    /* Adjust width for smaller screens */
+  }
+
+  .postb {
+    font-size: 14px;
+    /* Adjust font size for smaller screens */
+  }
+}

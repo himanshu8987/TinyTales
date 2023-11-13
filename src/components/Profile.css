@@ -124,7 +124,7 @@
   background-color: #d21e1e;
 }
 
-/* iPhone 12/13 pro max size is taken as reference */
+
 @media (width > 430px) {
   .profile__details {
     grid-template-columns: 200px auto;
