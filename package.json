@@ -13,7 +13,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "homepage": "https://github.com/akashtripathiiiii/profile-app",
+    "homepage": "https://akashtripathiiiii.github.io/profile-app/",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
